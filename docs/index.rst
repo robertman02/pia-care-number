@@ -3,7 +3,7 @@ How to Contact Private Internet Access Customer Care Number?
 
 In today's digital world, having a reliable VPN service is essential. Private Internet Access (PIA) has earned a reputation as one of the most trusted VPN providers for securing your online activity and protecting your privacy. But like any service, sometimes you need a helping hand. That’s when finding the right **Private Internet Access customer care number** becomes essential.
 
-.. image:: service-now.gif
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
